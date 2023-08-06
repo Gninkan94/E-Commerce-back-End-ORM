@@ -24,5 +24,5 @@ npm start
 
 ## Deployed Link 
 
-[click HERE](https://drive.google.com/file/d/1K3b9tq5M49hULYWzGmp3HA79k5BBefyT/view)
+[click HERE](https://drive.google.com/file/d/1BnSl5ZSwLzKCOige9RgBM-gig82dkIfn/view)
 
