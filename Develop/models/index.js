@@ -5,7 +5,7 @@ const Tag = require('./Tag');
 const ProductTag = require('./ProductTag');
 
 // lets define the relationship between models !!
-// Products belongsTo Category
+
 Product.belongsTo(Category, {
   foreignKey: "category_id", 
 });
